@@ -1,0 +1,49 @@
+---
+---
+
+/**
+ * Royce 1.2.0
+ * By Just Good Themes - https://justgoodthemes.com/
+ */
+
+/**
+ * Table of Contents
+ * ----------------------------------------------------------------------------
+ * 0. Reset
+ * 1. General
+ * 2. Structure
+ * 3. Site Header
+ * 4. Content
+ *   4.1 Posts and Pages
+ *   4.2 Comments
+ *   4.3 Paging Navigation
+ * 5. Site Footer
+ * 6. Media Queries
+*/
+
+:root {
+  --background-color: #ffffff; /* Light mode background */
+  --text-color: #1e1e1e;      /* Light mode text */
+  --link-color: #1e73be;      /* Light mode links */
+  /* Add more variables as needed, e.g., --header-bg, --button-color */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #000000; /* Dark mode background */
+    --text-color: #e1e1e1;      /* Dark mode text */
+    --link-color: #1e73be;      /* Dark mode links */
+    /* Adjust other variables for dark mode */
+  }
+}
+
+// Imports
+@import "variables";
+@import "reset";
+@import "general";
+@import "structure";
+@import "header";
+@import "content";
+@import "footer";
+@import "search";
+@import "media-queries";
