@@ -31,7 +31,7 @@
                         {%- for w in words -%}
                           <span class="word">
                             <span class="big">{{ w | slice: 0, 1 }}</span>
-                            <span class="small">{{ w | slice: 1 }}</span>
+                            <span class="small">{{ w | slice: 1, 99 }}</span>
                           </span>
                           {%- unless forloop.last %}&nbsp;{% endunless -%}
                         {%- endfor -%}
