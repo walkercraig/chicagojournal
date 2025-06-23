@@ -50,10 +50,11 @@
   font-family: 'Sorts Mill Goudy', serif !important;
   font-size: 1.5rem !important;
   font-weight: 400;
-  line-height: 0.7;
   margin: 1px 0 0 0 !important;
   letter-spacing: 2px !important;
   font-variant: small-caps;
+  display: flex;
+  align-items: center;
   color: #1e1e1e;
 }
 
