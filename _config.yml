@@ -6,7 +6,7 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'chicagostaricon.png'
-  greetings: "Hello & Welcome."
+  greetings: "Notes on the Great American City"
 favicon: '/favicon.ico'
 baseurl: '/chicagojournal'
 production_url: 'https://walkercraig.github.io/chicagojournal'
