@@ -1,3 +1,9 @@
+// Title Variables
+:root {
+  --logo-big: clamp(2rem, 4vw + 1rem, 4rem);
+  --logo-ratio: 0.45;
+}
+
 // Fonts
 $font-primary: 'Source Sans Pro', sans-serif;
 $font-secondary: 'Source Sans Pro', sans-serif;
