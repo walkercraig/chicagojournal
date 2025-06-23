@@ -1,5 +1,5 @@
 # Site settings
-name: 'Craig Walker'
+name: 'Chicago Journal'
 description: 
 meta_description: 
 logo:
@@ -8,47 +8,39 @@ author:
   image: 'cwsiteicon.png'
   greetings: "Hello & Welcome."
 favicon: '/favicon.ico'
-baseurl: '/'
-production_url: 'https://walkercraig.github.io/'
+baseurl: '/chicagojournal'
+production_url: 'https://walkercraig.github.io/chicagojournal/'
 disqus: 
 mailchimp_url: '//walkercraig.us11.list-manage.com/subscribe/post?u=b845f7d1807ad41b6c0437990&amp;id=7bd2f97cd8'
 # Add your GA Tracking Id
 ga_analytics: G-7Z1MEJ4574
 
 # Contact form settings
-email: mail@walkercraig.com
-contact_page_description: "Feel free to contact Craig with any questions, concerns, or work related inquiries. You may also reach him by sending an email direct to the following address: mail at walkercraig dot com."
+email: editor@chicagojournal.com  
+contact_page_description: "Feel free to contact us with any questions, concerns, or work related inquiries. You may also reach us by sending an email direct to the following address: editor at chicagojournal dot com."
 thankyou_page_description: "Your message has been successfully sent. We will contact you soon!"
 
 # Social links
-twitter: 'wlkrcrg'
-facebook: 'wlkrcrg'
-instagram: 'wlkrcrg'
+twitter: 'chicagojournal'
+facebook: 'chicagojournal'
+instagram: 'chicago.journal'
 
 # Navigation
 navigation:
   - text: Home
-    url: /
+    url: /chicagojournal
   - text: About
-    url: /about
-  - text: Letters
-    url: /tags/index.html#Letters
-  - text: Poems
-    url: /tags/index.html#Poems
-  - text: Songs
-    url: /tags/index.html#Songs
-  - text: Read
-    url: /tags/index.html#Read
-  - text: Watch
-    url: /tags/index.html#Watch
-  - text: Listen
-    url: /tags/index.html#Listen
-  - text: Photos
-    url: https://www.instagram.com/wlkrcrg
-  - text: Organizations
-    url: /organizations
+    url: /chicagojournal/about
+  - text: Commentary
+    url: /chicagojournal/tags/index.html#comment
+  - text: Features
+    url: /chicagojournal/tags/index.html#features
   - text: Contact
-    url: /contact
+    url: /chicagojournal/contact
+  - text: Shop
+    url: https://www.bonfire.com/store/chicagojournal/
+  - text: Donate
+    url: /donate
   - text: Search
     url: /search
 
