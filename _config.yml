@@ -5,7 +5,7 @@ meta_description:
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
-  image: 'cwsiteicon.png'
+  image: 'chicagostaricon.png'
   greetings: "Hello & Welcome."
 favicon: '/favicon.ico'
 baseurl: '/chicagojournal'
