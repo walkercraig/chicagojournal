@@ -1,6 +1,6 @@
 # Site settings
 url: "https://www.chicagojournal.com"
-baseurl: 'https://walkercraig.github.io'
+baseurl: '/chicagojournal'
 production_url: 'https://walkercraig.github.io/chicagojournal'
 name: 'Chicago Journal'
 description: 
