@@ -18,7 +18,7 @@ excerpt: The sound of a once-mighty machine is replaced by a resounding crack of
 > And to make an end is to make a beginning.
 > The end is where we start from...
 > <br>
-> From "Little Gidding" by T.S. Eliot
+> <small>From "Little Gidding" by T.S. Eliot</small>
 
 I began writing a different piece months ago, when Madigan was convicted, but put it away. It dove deep into the [Sixth Illinois Constitutional Convention](https://www.wikiwand.com/en/articles/Sixth_Illinois_Constitutional_Convention),[^3] was peppered with moments from Madigan's career,[^4] and revisited some additional comments about him I've written elsewhere.
 
