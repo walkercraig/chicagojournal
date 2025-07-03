@@ -143,11 +143,9 @@ Ours, too.
 
 ---
 
-<center>
 <figure>
- <img src="https://i.imgur.com/MOWJNk6.png" alt="Subscribe to the Chicago Journal">
+ <center><img src="https://i.imgur.com/MOWJNk6.png" alt="Subscribe to the Chicago Journal"></center>
 </figure>
-</center>
 
 ---
 
@@ -163,18 +161,16 @@ If you're already a subscriber and you'd like to send a tip to continue to suppo
 
 ---
 
-<center>
 <figure>
- <center><img src="https://i.imgur.com/MOWJNk6.png" alt="Subscribe to the Chicago Journal">
+ <center><img src="https://i.imgur.com/MOWJNk6.png" alt="Subscribe to the Chicago Journal"></center>
 </figure>
-</center>
 
 <!--MONUMETRIC Repeatable In-content Ad D:300x250,320x50,728x90 T:300x250,320x50 M:300x250,320x50 START-->
 
 <div id="mmt-b821b928-a6f0-49e7-9341-f47e6ed6d35d"></div><script type="text/javascript" data-cfasync="false">$MMT = window.$MMT || {}; $MMT.cmd = $MMT.cmd || [];$MMT.cmd.push(function(){ $MMT.display.slots.push(["b821b928-a6f0-49e7-9341-f47e6ed6d35d"]); })</script>
 
 <!--MONUMETRIC Repeatable In-con{}YTtent Ad D:300x250,320x50,728x90 T:300x250,320x50 M:300x250,320x50  ENDS-->
-    
+
 ---
 
 ### Notes & References
