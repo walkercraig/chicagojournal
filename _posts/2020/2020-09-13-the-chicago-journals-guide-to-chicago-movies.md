@@ -1,7 +1,7 @@
 ---
 layout: post
 image: /assets/images/posts/2020/hollywoodchicago.jpg.png
-tag: [ Features ]
+tag: [ Features, Film & Television, Arts & Culture ]
 title: The Chicago Journal's Guide to Chicago Movies
 excerpt: Welcome to the Chicago Journal's running master list of Chicago movies.
 ---
