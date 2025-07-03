@@ -144,6 +144,7 @@ Ours, too.
 <figure>
  <center><img src="https://i.imgur.com/MOWJNk6.png" alt="Subscribe to the Chicago Journal"></center>
 </figure>
+<br>
 
 **[The Chicago Journal needs your support](https://www.chicagojournal.com/#/portal/signup).**
 
