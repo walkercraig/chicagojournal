@@ -49,17 +49,18 @@
     <script src="{{ site.baseurl }}/assets/js/plugins.js"></script>
     <script src="{{ site.baseurl }}/assets/js/custom.js"></script>
 
-    <!-- littlefoot library – put this BEFORE the init call -->
-    <script src="https://unpkg.com/littlefoot/dist/littlefoot.js"></script>
+<!-- just before </body> -->
+<script type="module">
+  import littlefoot from 'https://unpkg.com/littlefoot/dist/littlefoot.module.js';
 
-    <!-- initialise littlefoot -->
-    <script>
-      littlefoot.littlefoot({
-        activateOnHover: true,
-        allowMultiple: true,
-        hoverDelay: 250   // adjust to taste
-      });
-    </script>
+  document.addEventListener('DOMContentLoaded', () => {
+    littlefoot({
+      activateOnHover: true,
+      allowMultiple: true,
+      hoverDelay: 250
+    });
+  });
+</script>
 </body>
 
 </html>
