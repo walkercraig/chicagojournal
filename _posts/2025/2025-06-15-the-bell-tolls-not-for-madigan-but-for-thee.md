@@ -144,10 +144,8 @@ Ours, too.
 ---
 
 <center>
-<figure class="kg-card kg-card-image">
- <a href="https://www.chicagojournal.com/#/portal">
- <center><img src="https://i.imgur.com/MOWJNk6.png" alt="Subscribe to the Chicago Journal" class="kg-image">
- </a>
+<figure>
+ <img src="https://i.imgur.com/MOWJNk6.png" alt="Subscribe to the Chicago Journal">
 </figure>
 </center>
 
@@ -166,10 +164,8 @@ If you're already a subscriber and you'd like to send a tip to continue to suppo
 ---
 
 <center>
-<figure class="kg-card kg-card-image">
- <a href="https://www.chicagojournal.com/#/portal">
- <center><img src="https://i.imgur.com/MOWJNk6.png" alt="Subscribe to the Chicago Journal" class="kg-image">
- </a>
+<figure>
+ <center><img src="https://i.imgur.com/MOWJNk6.png" alt="Subscribe to the Chicago Journal">
 </figure>
 </center>
 
