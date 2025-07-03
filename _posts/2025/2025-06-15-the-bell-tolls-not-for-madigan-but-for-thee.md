@@ -168,7 +168,6 @@ If you're already a subscriber and you'd like to send a tip to continue to suppo
 ---
 
 ### Notes & References
-<br>
 [^1]: Walker, Craig. “Opinion: Madigan’s Magical Mystery Machine.” Chicago Journal, August 13, 2020. https://www.chicagojournal.com/madigans-magical-mystery-machine/. 
 [^2]: Chicago Journal. “The Definitive Chicago Style Hot Dog Recipe.” Chicago Journal, August 1, 2021. https://www.chicagojournal.com/the-definitive-chicago-style-hot-dog-recipe/. 
 [^3]: “Sixth Illinois Constitutional Convention.” Wikiwand. Accessed February 14, 2025. 
