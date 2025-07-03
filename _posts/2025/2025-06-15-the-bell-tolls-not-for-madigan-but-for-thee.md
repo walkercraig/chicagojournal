@@ -141,13 +141,9 @@ Ours, too.
 
 <!--MONUMETRIC Repeatable In-content Ad D:300x250,320x50,728x90 T:300x250,320x50 M:300x250,320x50  ENDS-->
 
----
-
 <figure>
  <center><img src="https://i.imgur.com/MOWJNk6.png" alt="Subscribe to the Chicago Journal"></center>
 </figure>
-
----
 
 **[The Chicago Journal needs your support](https://www.chicagojournal.com/#/portal/signup).**
 
@@ -158,8 +154,6 @@ If you find value in what we’re doing, we suggest $12/year, just a dollar a mo
 If you're already a subscriber and you'd like to send a tip to continue to support the Chicago Journal, which we would greatly appreciate, you can do so at the following link:
 
 [**Send a tip to the Chicago Journal**](https://buy.stripe.com/9AQ7tJ0KE7nf9oc8ww)
-
----
 
 <figure>
  <center><img src="https://i.imgur.com/MOWJNk6.png" alt="Subscribe to the Chicago Journal"></center>
