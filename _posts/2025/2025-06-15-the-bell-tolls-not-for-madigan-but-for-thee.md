@@ -159,9 +159,9 @@ Ours, too.
 
 **[The Chicago Journal needs your support](https://www.chicagojournal.com/#/portal/signup).**
 
-At just **$12**/year, [your subscription](https://www.chicagojournal.com/#/portal/signup) not only helps us grow, it helps maintain our commitment to independent publishing.
+If you find value in what we’re doing, we suggest $12/year, just a dollar a month, to help keep this space alive and growing. More if you’d like, less if you need. Either way, we’re glad you’re here.
 
-**[CLICK HERE TO SUBSCRIBE](https://www.chicagojournal.com/#/portal/signup)**
+**[CLICK HERE TO SUPPORT](https://www.chicagojournal.com/#/portal/signup)**
 
 If you're already a subscriber and you'd like to send a tip to continue to support the Chicago Journal, which we would greatly appreciate, you can do so at the following link:
 
