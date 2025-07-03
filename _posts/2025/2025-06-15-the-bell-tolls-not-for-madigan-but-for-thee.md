@@ -143,15 +143,13 @@ Ours, too.
 
 ---
 
-<br>
+<center>
 <figure class="kg-card kg-card-image">
- <center>
  <a href="https://www.chicagojournal.com/#/portal">
  <center><img src="https://i.imgur.com/MOWJNk6.png" alt="Subscribe to the Chicago Journal" class="kg-image">
- </center>
  </a>
 </figure>
-<br>
+</center>
 
 ---
 
@@ -167,14 +165,13 @@ If you're already a subscriber and you'd like to send a tip to continue to suppo
 
 ---
 
+<center>
 <figure class="kg-card kg-card-image">
- <center>
  <a href="https://www.chicagojournal.com/#/portal">
  <center><img src="https://i.imgur.com/MOWJNk6.png" alt="Subscribe to the Chicago Journal" class="kg-image">
- </center>
  </a>
 </figure>
-<br>
+</center>
 
 <!--MONUMETRIC Repeatable In-content Ad D:300x250,320x50,728x90 T:300x250,320x50 M:300x250,320x50 START-->
 
