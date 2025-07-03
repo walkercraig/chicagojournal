@@ -16,6 +16,8 @@
 
     <!-- CSS Styles -->
     <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
+    <link rel="stylesheet"
+          href="https://unpkg.com/littlefoot/dist/littlefoot.css" />
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
@@ -46,6 +48,13 @@
     <script src="{{ site.baseurl }}/assets/js/jquery-3.3.1.min.js"></script>
     <script src="{{ site.baseurl }}/assets/js/plugins.js"></script>
     <script src="{{ site.baseurl }}/assets/js/custom.js"></script>
+    <script>
+      littlefoot.littlefoot({
+        activateOnHover: true,
+        allowMultiple: true,
+        hoverDelay: 250   // adjust to taste
+      });
+    </script>
 </body>
 
 </html>
