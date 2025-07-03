@@ -14,10 +14,9 @@ excerpt: The sound of a once-mighty machine is replaced by a resounding crack of
 
 <!--MONUMETRIC Repeatable In-content Ad D:300x250,320x50,728x90 T:300x250,320x50 M:300x250,320x50  ENDS-->
 
-> *What we call the beginning is often the end
+> What we call the beginning is often the end
 > And to make an end is to make a beginning.
-> The end is where we start from...*
-> ---
+> The end is where we start from...
 > <br>
 > From "Little Gidding" by T.S. Eliot
 
